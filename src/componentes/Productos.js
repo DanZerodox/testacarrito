@@ -68,7 +68,6 @@ export class Productos extends React.Component{
                                     <div class="grid_img">
                                         <div class="css3"><img class="imagen1" src={"https://192.168.224.168:44387/qa_tiendajumex/Content/Assets/Images/"+item.ArtSku+".png"} alt=""/></div>
                                         <div class="mask">
-
                                          <Link to={'/detalleproducto/'+item.ArtSku}>
                                             <div class="info" alt="">
                                                 DETALLE
