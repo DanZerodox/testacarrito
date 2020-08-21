@@ -1,0 +1,285 @@
+.imagenlogo{
+    position: relative;
+    right: 27px;
+}
+
+.division{
+    padding: 0px 0px;
+}
+.clp-all-title{
+    padding: 0px 14px;
+    font-size: 20px;
+}
+.wrap{
+    width:90%;
+    padding: 20px 0px 0px 18px;
+}
+.division{
+    padding: 0 30px;
+}
+.text-uppercase{
+    display: none;
+}
+.logo {
+    margin-right: 0;
+    width: 30.5%;
+}
+.footer-middle{
+    height: 96px;
+}
+.dropdown {
+   padding-right:34.5%;
+}
+.search input[type="text"] {
+     width:67.99%;
+  }
+span.m_8 {
+    margin:0% 3% 0% 0;
+}
+.icon2 ul {
+    right:-10px;
+}
+.span_1_of_3 {
+    width: 95%;
+}
+.col_1_of_3 {
+    float: none;
+    margin: 1% 0 1% 0;
+}
+.mens-toolbar .sort {
+    width: 100%;
+    float: none;
+}
+ul.list2 li img {
+    margin: 0 0px 0 0;
+}
+.rating1 {
+    width: 49.5%;
+    padding: 1.8% 1%;
+    font-size: 0.8125em;
+}
+.list2 {
+    width: 48.5%;
+}
+.rating {
+    padding: 1.5% 0;
+    font-size: 12px;
+    width: 51.5%;
+}
+.span_1_of_single1 {
+    width:100%;
+}
+.span_1_of_c1 p {
+    margin-top: 15px;
+}
+.col_1_of_middle {
+    margin: 1% 0 1% 0%;
+}
+.search {
+    width:40.5%;
+}
+.view .mask, .view .content {
+    left:35%;
+    top: 115px;
+}
+.span_2_of_a1 {
+    width: 100%;
+    margin-left: 0;
+}
+.view1 .mask1, .view1 .content {
+    top: 120px;
+    left: 35%;
+}
+.slider-right h1 {
+    font-size:1.7em;
+}
+.slider-right h2 {
+    font-size: 1.1em;
+}
+.slider-right p {
+    display: none;
+}
+.wmuSliderPrev {
+    left: 15px;
+}
+.wmuSliderNext {
+    right: 15px;
+}
+.border {
+    width: 35px;
+    left: 69%;
+}
+.icon1 li a {
+    font-size:11px;
+    margin-top: 9px;
+}
+.list {
+    width:48.5%;
+    padding:0;
+}
+ul.list li img {
+    margin: 0 0px 0 19%;
+}
+.span_1_of_footer-top {
+    width:100%;
+}
+.col_1_of_footer-top {
+    margin:0;
+}
+.span_1_of_a1 {
+    width:100%;
+}	
+.register_account form input[type="text"].number {
+    width:69.8%;
+}
+.mens-toolbar .pager {
+    width: 100%;
+    float: none;
+}
+ul.dc_pagination li a {
+    padding: 0px 4px 0px 0px;
+}
+.span_2_of_c1 {
+    width: 62.2%;
+}
+.mens-toolbar {
+    width:97.8%;
+}
+.cssmenu ul li a {
+    margin: 0px 4px;
+    font-size: 12px;
+}
+.top_box {
+    padding: 10px;
+}
+.view-fifth .mask {
+    -webkit-transform: translateX(-391px);
+    -moz-transform: translateX(-391px);
+    -o-transform: translateX(-391px);
+    -ms-transform: translateX(-391px);
+    transform: translateX(-391px);
+}
+.view-fifth1 .mask1 {
+    -webkit-transform: translateX(-391px);
+    -moz-transform: translateX(-391px);
+    -o-transform: translateX(-391px);
+    -ms-transform: translateX(-391px);
+    transform: translateX(-391px);
+}
+.span_1_of_middle {
+    width: 100%;
+}
+.dropdown {
+    padding-right: 0;
+    border-right: 0;
+}
+.span_1_of_left {
+    width: 34.2%;
+}
+.rsidebar {
+    float: none;
+    margin: 1% 0% 0% 0;
+}
+.span_2_of_3 {
+    width: 63.1%;
+}
+.col_1_of_single1 {
+    float: none;
+    margin: 1% 0 1% 0;
+}
+.cssmenu {
+    margin-top: -28px;
+}
+.wmuSliderPrev, .wmuSliderNext {
+    background: url(./images/arrows.png)no-repeat;
+    width: 40px;
+    height: 63px;
+}
+.wmuSliderPrev {
+    background-position: -6px -4px;
+    left:10px;
+}
+.wmuSliderNext {
+    background-position: -31px -4px;
+    right:10px;
+}
+.wmuSliderPagination {
+    bottom: 0px;
+    left: 69.5%;
+}
+.span_1_of_c1 {
+    width: 100%;
+}
+.lsidebar {
+    float: none;
+    margin: 1% 0% 1% 0;
+}
+.span_2_of_c1 {
+    width: 100%;
+}
+.span_1_of_5 {
+    width: 100%;
+}
+.col_1_of_5 {
+    float: none;
+    margin: 1% 0 1% 0;
+}
+h3.m_9 {
+    margin-bottom: 1%;
+}
+h4.m_10 {
+    margin-bottom: 1%;
+}
+ul.sub_list {
+    margin-bottom: 2%;
+}
+ul.sub_list2 {
+    margin: 2% 0 0 0;
+}
+.etalage_zoom_area div {
+    width:100px !important;
+    height:100px !important;
+}
+.labout {
+    margin:0;
+}
+.row1 {
+    height: 200px;
+    width:410px!important;
+}
+.span_1_of_login {
+    width: 100%;
+}
+.col_1_of_login {
+    float:none;
+    margin: 1% 0 1% 0;
+}
+.span_1_of_2 {
+    width: 100%;
+}
+.col_1_of_2 {
+    float:none;	
+    margin: 1% 0 1% 0%;
+}
+.header-bottom {
+    padding:0;
+}
+.cont {
+    float:none;
+}
+.icon2 li a {
+    margin-top: -73px;
+}
+.slider-left {
+    width: 58.5%;
+}
+.slider-right {
+    width: 39.5%;
+}
+.btn a {
+    padding: 7px 20px;
+    font-size: 0.8125em;
+}
+.icon1 ul {
+    right: -100px;
+}

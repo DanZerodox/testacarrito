@@ -3,10 +3,18 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import {HeadTop} from './componentes/HeadTop';
+import {HeadBanner} from './componentes/HeadBanner';
 
 ReactDOM.render(
   <React.StrictMode>
+   <>
+    <HeadTop/>
+    <HeadBanner></HeadBanner>
     <App />
+    
+    
+   </>
   </React.StrictMode>,
   document.getElementById('root')
 );
